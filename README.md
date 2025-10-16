@@ -1,2 +1,1 @@
-# stannecliniclogo
-logo
+
